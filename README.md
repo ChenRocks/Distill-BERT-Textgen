@@ -1,6 +1,8 @@
 # Distill-BERT-Textgen
 Research code for ACL 2020 paper: "[Distill Knowledge Learned in BERT for Text Generation](https://arxiv.org/abs/1911.03829)".
 
+![Overview of UNITER](https://convaisharables.blob.core.windows.net/distill-bert-textgen/overview.png)
+
 Coming soon!
 
 
