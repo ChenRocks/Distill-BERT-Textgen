@@ -1,0 +1,3 @@
+[submodule "opennmt"]
+	path = opennmt
+	url = git@github.com:chenrocks/distill-bert-textgen-onmt
