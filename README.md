@@ -11,7 +11,7 @@ This repo is tested on Ubuntu 18.04 machine with Nvidia GPU. We do not plan to s
 1. Prerequisite
     - [Docker](https://docs.docker.com/engine/install/ubuntu/)
 
-      you also need to add to follow [this](https://docs.docker.com/engine/install/linux-postinstall/) to run docker without sudo
+      you also need to follow [this](https://docs.docker.com/engine/install/linux-postinstall/) to run docker without sudo
     - nvidia-driver (we tested on version 418)
         ```bash
         # reference installation command on Ubuntu
