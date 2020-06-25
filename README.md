@@ -116,6 +116,7 @@ To exit the docker environment, type `exit` or press Ctrl+D.
 
 
 2. Inference and Evaluatation
+
     The following command will translate the dev split using the 100k step checkpoint, with beam size 5 and length penalty 0.6.
     ```bash
     ./run_mt.sh /output/<kd_exp_name> 100000 dev 5 0.6
