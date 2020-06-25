@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 #
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
 # Adapted from https://github.com/facebookresearch/MIXER/blob/master/prepareData.sh
 
 set -x

@@ -1,4 +1,7 @@
 """
+Copyright (c) Microsoft Corporation.
+Licensed under the MIT license.
+
 distributed utils not presented in OpenNMT-py
 """
 import torch.distributed

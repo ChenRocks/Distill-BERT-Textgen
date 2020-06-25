@@ -1,4 +1,9 @@
-""" data for C-MLM """
+"""
+Copyright (c) Microsoft Corporation.
+Licensed under the MIT license.
+
+data for C-MLM
+"""
 import math
 import random
 import shelve

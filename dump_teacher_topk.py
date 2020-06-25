@@ -1,4 +1,7 @@
 """
+Copyright (c) Microsoft Corporation.
+Licensed under the MIT license.
+
 Further pre-compute the top-K prob to save memory
 """
 import argparse

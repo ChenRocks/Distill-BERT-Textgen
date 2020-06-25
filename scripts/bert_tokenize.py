@@ -1,4 +1,7 @@
 """
+Copyright (c) Microsoft Corporation.
+Licensed under the MIT license.
+
 use BERT tokenizer to process seq2seq data
 """
 import argparse

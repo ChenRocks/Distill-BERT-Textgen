@@ -1,5 +1,8 @@
 # coding=utf-8
-# copied from hugginface github
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+# modified from hugginface github
+
 # Copyright 2018 The Google AI Language Team Authors and The HuggingFace Inc.
 # team.
 # Copyright (c) 2018, NVIDIA CORPORATION.  All rights reserved.

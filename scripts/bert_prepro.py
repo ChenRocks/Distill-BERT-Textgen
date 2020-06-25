@@ -1,4 +1,7 @@
 """
+Copyright (c) Microsoft Corporation.
+Licensed under the MIT license.
+
 preprocess text files for C-MLM finetuning
 """
 import argparse

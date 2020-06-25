@@ -1,4 +1,6 @@
 #!/bin/bash
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
 set -x
 set -e
 export PYTHONUNBUFFERED=1

@@ -1,4 +1,7 @@
 """
+Copyright (c) Microsoft Corporation.
+Licensed under the MIT license.
+
 precompute hidden states of CMLM teacher to speedup KD training
 """
 import argparse
