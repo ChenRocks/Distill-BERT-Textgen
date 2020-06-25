@@ -14,7 +14,3 @@ RUN git clone https://github.com/moses-smt/mosesdecoder.git /workspace/mosesdeco
     cd /workspace/mosesdecoder && git checkout c054501 && rm -r .git && cd -
 
 WORKDIR /src
-
-# Summarization
-#COPY ./scripts/setup_rouge.sh .
-#RUN bash setup_rouge.sh && rm ./setup_rouge.sh
