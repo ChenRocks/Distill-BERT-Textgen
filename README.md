@@ -1,7 +1,7 @@
 # Distill-BERT-Textgen
 Research code for ACL 2020 paper: "[Distilling Knowledge Learned in BERT for Text Generation](https://arxiv.org/abs/1911.03829)".
 
-![Overview of UNITER](https://convaisharables.blob.core.windows.net/distill-bert-textgen/overview.png)
+![Overview of UNITER](https://acvrpublicycchen.blob.core.windows.net/distill-bert-textgen/overview.png)
 
 This repository contains the code needed to reproduce our IWSLT De-En experiments.
 
